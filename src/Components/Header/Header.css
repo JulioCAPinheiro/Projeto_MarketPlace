@@ -1,0 +1,37 @@
+@media(min-width:390px) {
+
+    .header_cabecalho {
+        width: 100%;
+    }
+
+    .header_cabecalho_titulos {
+        display: flex;
+
+    }
+
+    .nav {
+        display: block;
+        gap: 50px;
+    }
+
+    .header_titulo {
+        z-index: 1;
+    }
+
+    .header_titulo {
+        font-size: 1.2em;
+    }
+
+    .header_titulo2 {
+        font-size: 2em;
+    }
+
+    .teste {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+
+    .header_img {
+        
+    }
+}

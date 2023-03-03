@@ -1,0 +1,10 @@
+body{
+    background-color: #242c3b;
+}
+
+.imagemRetangulo{
+    position: absolute;
+    height: 100%;
+    left: -100px;
+    z-index: -1;
+}
